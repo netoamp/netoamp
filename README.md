@@ -1,4 +1,6 @@
-## WELCOME! 😁
+## HELLO! 😁
+
+  <p>Welcome to my GitHub profile!</p>
 
  <div>
    <a href="https://github.com/netoamp">
@@ -16,8 +18,7 @@
 <br>
  
 ###  CONTACT:
- 
-<div> 
-  <a href = "mailto:dev.netoamp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/netoamp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/netoamp/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/netoamp)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:dev.netoamp@gmail.com)
